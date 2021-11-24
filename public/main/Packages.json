@@ -1,0 +1,19 @@
+[
+    {
+        "name": "js-js",
+        "friendlyName": "JS-JS virus",
+        "description": "This package installs JS-JS, a piece of malware that instantly wipes all files permanently. BE WARNED - this is a one-time action. Backup your files or else you'll lose them.",
+        "author": "Plopilpy (https://github.com/plopilpy/)",
+        "category": "other",
+        "version": 1.0,
+        "feature_requirements": [],
+        "min_os_version": 2.2776,
+        "max_os_version": 9999,
+        "depends": [],
+        "iconFiles": {
+            "32x32": "$REPO_PATH$/dist/s/jsjs/icon32.png",
+            "16x16": "$REPO_PATH$/dist/s/jsjs/icon16.png"
+        },
+        "packageRoot": "$REPO_PATH$/dist/s/jsjs"
+    }
+]
