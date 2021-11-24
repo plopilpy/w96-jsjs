@@ -2,7 +2,7 @@
     {
         "name": "js-js",
         "friendlyName": "JS-JS virus",
-        "description": "This package installs JS-JS, a piece of malware that instantly wipes all files permanently. BE WARNED - this is a one-time action. Backup your files or else you'll lose them.",
+        "description": "This package installs JS-JS, a piece of malware that instantly wipes all files permanently. BE WARNED - this is a one-time action. Backup your files or else you will lose them.",
         "author": "Plopilpy (https://github.com/plopilpy/)",
         "category": "other",
         "version": 1.0,
