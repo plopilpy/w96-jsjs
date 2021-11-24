@@ -24,4 +24,4 @@ w96.ui.DialogCreator.create({
     ]
 });
 	
-	}, 5000)
+	}, 2000)
